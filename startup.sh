@@ -1,3 +1,3 @@
-pip install startup.sh
+pip install deps.txt
 
 python manage.py migrate
